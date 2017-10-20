@@ -77,6 +77,6 @@ python setup.py install
 curator_cli --help
 
 
-技术分享离不开您的支持
+技术分享离不开您的支持，您的支持是我源源不断的动力。
 
 ![微信](https://yuanyb.github.io/wxpay.png) ![支付宝](https://yuanyb.github.io/alipay.jpg)
