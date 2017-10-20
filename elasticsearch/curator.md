@@ -27,7 +27,7 @@ cd click-6.7
 python setup.py install
 
 ### 4.安装certifi
-wget https://github.com/certifi/python-certifi.git
+wget https://github.com/certifi/python-certifi/archive/master.zip
 
 unzip python-certifi-master.zip 
 
